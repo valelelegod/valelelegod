@@ -26,3 +26,21 @@ My real name is **Valentin**, known as **valelele** everywhere you go and of cou
 </p>
 
 ---
+
+### 🧑‍💻 What I do
+      
+   - 💼 Currently, I’m working on **Romania Roleplay** (a Romanian RAGE MP server) as a Lead Game Developer.
+   - 👀 Trying to learn the script version of **Java** and I'm interested in **Game Developing**.
+   - 📫 You can reach me on Discord as **valelele#3394** or just email me at **rorpvalentin@gmail.com**.
+---
+
+### 💻 Tools and tech stack:
+
+   * **Backend** - C#, C++, Pawn, C
+   * **Frontend** - HTML5/CSS3, JavaScript, Vue(JS)
+   * **Scripting** - Python3
+   * **Datastores** - MongoDB, MySQL
+   * **Tools** - GitHub, VSCode, VS
+   * **Other** - Linux (CentOS, Ubuntu, Debian)
+
+---
