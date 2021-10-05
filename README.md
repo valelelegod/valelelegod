@@ -2,14 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
 
-My real name is **[Valentin]**, known as **[valelele]** everywhere you go and of course I'm 20 years old student from Romania.
+My real name is **Valentin**, known as **valelele** everywhere you go and of course I'm 20 years old student from Romania.
 
 <p align="center">
    <a href="https://www.instagram.com/elelelav/" target="_blank">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
+      <img src="https://i.imgur.com/ZrXj1Qh.png" alt="Instagram" width="32" align="center">
    </a>
    <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
+      <img src="https://i.imgur.com/cstwXyP.png" alt="Discord" width="32" align="center">
+   </a>
+   <a href="https://www.facebook.com/callmegodv/" target="_blank" rel="nofollow">
+      <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
+   </a>
+   <a href="https://www.ro-rp.ro/" target="_blank" rel="nofollow">
+      <img src="https://i.imgur.com/4dmnGlo.png" alt="RO-RP" width="32" align="center">
    </a>
 </p>
 
