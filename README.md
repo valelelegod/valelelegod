@@ -1,16 +1,22 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-<!--
-**valelelegod/valelelegod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
 
-Here are some ideas to get you started:
+My real name is **[Valentin]**, known as **[valelele]** everywhere you go and of course I'm 20 years old student from Romania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <a href="https://www.instagram.com/elelelav/" target="_blank">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
+   </a>
+   <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/337620156236955670?idle" alt="Discord Presence" align="center">
+   </a>
+</p>
+
+---
