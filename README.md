@@ -14,8 +14,8 @@ My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere yo
    <a href="https://www.facebook.com/callmegodv/" target="_blank" rel="nofollow">
       <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
    </a>
-   <a href="https://www.ro-rp.ro/" target="_blank" rel="nofollow">
-      <img src="https://i.imgur.com/4dmnGlo.png" alt="RO-RP" width="32" align="center">
+   <a href="https://gta.world/" target="_blank" rel="nofollow">
+      <img src="https://gta.world/newsite/assets/images/gtaw/logo.png" alt="GTA.World" width="32" align="center">
    </a>
 </p>
 
@@ -29,7 +29,7 @@ My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere yo
 
 ### 🧑‍💻 What I do
       
-   - 💼 Currently, I’m working on **Romania Roleplay** (a Romanian RAGE MP server) as a Lead Game Developer.
+   - 💼 Currently, I’m working on **GTA.World** as a Game Developer.
    - 👀 Trying to learn the script version of **Java** and I'm interested in **Game Developing**.
    - 📫 You can reach me on Discord as **valelele#3394** or just email me at **rorpvalentin@gmail.com**.
 ---
