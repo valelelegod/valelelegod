@@ -5,14 +5,8 @@
 My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere you go and of course I'm 20 years old student from Romania.
 
 <p align="center">
-   <a href="https://www.instagram.com/elelelav/" target="_blank">
-      <img src="https://i.imgur.com/ZrXj1Qh.png" alt="Instagram" width="32" align="center">
-   </a>
    <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
       <img src="https://i.imgur.com/cstwXyP.png" alt="Discord" width="32" align="center">
-   </a>
-   <a href="https://www.facebook.com/callmegodv/" target="_blank" rel="nofollow">
-      <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
    </a>
    <a href="https://gta.world/" target="_blank" rel="nofollow">
       <img src="https://gta.world/newsite/assets/images/gtaw/logo.png" alt="GTA.World" width="32" align="center">
