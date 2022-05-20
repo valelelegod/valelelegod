@@ -30,10 +30,10 @@ My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere yo
 
 ### 💻 Tools and tech stack:
 
-   * **Backend** - C#, C++, Pawn, C
-   * **Frontend** - HTML5/CSS3, JavaScript, Vue(JS)
+   * **Backend** - C#, C++, Pawn, C, JS, Typescript
+   * **Frontend** - HTML5/CSS3, JavaScript, Vue(JS), Angular
    * **Scripting** - Python3
-   * **Datastores** - MongoDB, MySQL
+   * **Datastores** - MongoDB, MySQL, SQLite
    * **Tools** - GitHub, VSCode, VS
    * **Other** - Linux (CentOS, Ubuntu, Debian)
 
