@@ -1,5 +1,3 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
 
 My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere you go and of course I'm 20 years old student from Romania.
