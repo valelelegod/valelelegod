@@ -22,7 +22,7 @@ My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere yo
 ### 🧑‍💻 What I do
       
    - 💼 Currently, I’m working on **GTA.World** as a Game Developer.
-   - 👀 Trying to learn the script version of **Java** and I'm interested in **Game Developing**.
+   - 👀 Trying to learn more about **Angular & React**. I'm interested in **Game Developing** but I'm also very good on the **Web side**.
    - 📫 You can reach me on Discord as **valelele#3394** or just email me at **rorpvalentin@gmail.com**.
 ---
 
