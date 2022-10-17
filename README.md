@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
 
-My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere you go and of course I'm 20 years old student from Romania.
+My real name is **Mocanu Valentin-Gabriel**, known as **valelele** everywhere you go and of course I'm 21 years old student from Romania.
 
 <p align="center">
    <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
