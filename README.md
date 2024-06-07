@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full Stack Developer on Ionic projects.<br>🌱 I’m currently learning Angular.<br>💬 Ask me about anything related to Game Development.<br>⚡ I'm 6'2" but I promise I'm not a serial killer.
+🔭 I’m currently working as Full Stack Developer, specializing in C# & Angular.<br>🌱 I’m currently expanding my skills in other Typescript frameworks and libraries.<br>🚀 Passionate about building scalable and efficient web applications.<br>💬 Ask me about anything related to Game Development.<br>⚡ I'm 6'2" but I promise I'm not a serial killer.
 
 
 ## 🌐 Socials:
